@@ -26,9 +26,11 @@ export default function App() {
             GitHub
           </a>{" "}
           and hosted on{" "}
-          <a href="https://roaring-kulfi-fbb967.netlify.app/"
+          <a
+            href="https://roaring-kulfi-fbb967.netlify.app/"
             target="_blank"
-            rel="noopener noreferrer">
+            rel="noopener noreferrer"
+          >
             Netlify
           </a>
         </footer>
